@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a simple RSS API in python that can be used for anything with a simple GET request.
 - 🌱 I’m currently learning how to program in java and ruby.
 - 📫 How to reach me: Discord @ GibbieMonster#6242
-- 🌐 [blockarchitech.github.io](https://blockarchitech.github.io)
+- 🌐 [blockarchitech.com](https://blockarchitech.com)
 - 💬 [Join my Discord!](https://discord.gg/z8NkENNkHH)
 
 
