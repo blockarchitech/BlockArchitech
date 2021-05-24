@@ -6,7 +6,7 @@
 - 📫 How to reach me: Discord @ GibbieMonster#6242
 - 🌐 [blockarchitech.com](https://blockarchitech.com)
 - 💬 [Join my Discord!](https://discord.gg/z8NkENNkHH)
-
+**Repos listed here do not include production versions. Go to git.blockarchitech.com to view final versions**
 
 
 [![blockarchitech's GitHub stats](https://github-readme-stats.vercel.app/api?username=blockarchitech)](https://github.com/anuraghazra/github-readme-stats)
