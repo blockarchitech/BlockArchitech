@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm BlockArchitech
 
-- 🔭 I’m currently working on a mail server
-- 🌱 I’m currently learning how to program in java and ruby.
 - 📫 How to reach me: hello@blockarchitech.com
 - 🌐 [blockarchitech.com](https://blockarchitech.com)
 - 💬 [Join my Discord!](https://discord.gg/z8NkENNkHH)
