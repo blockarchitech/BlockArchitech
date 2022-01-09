@@ -5,6 +5,11 @@
 </p>
   </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockarchitech)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockarchitech)](https://github.com/anuraghazra/github-readme-stats)  - 
 [![blockarchitech's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=blockarchitech)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 [![stats](https://github-readme-stats.vercel.app/api?username=blockarchitech)](https://github.com/anuraghazra/github-readme-stats)
