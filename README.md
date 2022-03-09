@@ -1,1 +1,1 @@
-👋 *Hi, how are ya?*
+👋 Hi, how are ya?
