@@ -3,7 +3,7 @@ Hi there 👋
 I program things.
 
 Sometimes I use:
-- JS/HTMl/CSS
+- JS/HTML/CSS
 - Node.js
 - Java
 - Kotlin
